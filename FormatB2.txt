@@ -1,0 +1,5 @@
+{
+        Count: 3,
+        Parts: ["A", "B", "X", "X"],
+        Numbers: [1, 2, 88]
+}
